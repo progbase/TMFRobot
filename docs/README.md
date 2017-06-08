@@ -25,7 +25,7 @@
 <p>Детальніше про <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a>.</p>
 <b><font size="6"><p>Запуск програми для слідкування за лицем:</font></b></p>
   1. Необхідно встановити<a href="http://www.codeblocks.org/downloads/26"> Code Blocks IDE (Windows Edition)</a>.<br>
-  2. Запустити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/tree/master/docs">даний код</a> в редакторі.<br>
+  2. Запустити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/tree/master/docs">даний код</a> в редакторі.<br><br>
 <b><font size="6"><p>Використання програми:</font></b></p>
   При коректному встановленні коду на ArduinoUNO та запуску програми розпізнавання обличчя виконуємо наступні кроки:<br>
   1. Вмикнути робота та навести його камеру на своє лице.<br>
