@@ -16,3 +16,9 @@
 <p>Детальніше про підключення та використання LCD-модуля можна дінатись <a href="https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay">тут</a>.<br>
 Одним із основних джерел інформації був <a href="http://zelectro.cc/LCD1602">сайт</a>.<br>
 Детальний гайд знаходиться <a href = "http://www.instructables.com/id/Connecting-an-LCD-to-the-Arduino/">тут.</a></p>
+<b><font size="6"><p>Завантаження коду на плату Arduino UNO:</font></b></p>
+Для завантаження коду необхідно:
+  1. Мати в наявності текстовий редактор Arduino IDE (<b>important:</b>>=2.4).<br>
+  2. Відкрити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/blob/master/docs/facedetect.ino">файл</a> у Arduino IDE.<br>
+  3. Підключити плату до комп'ютера за допомогою USB-кабеля.<br>
+  4. Завантажити код на плату за допомогою клавіші "Upload" або комбінації клавіш "Ctrl+U".<br>
