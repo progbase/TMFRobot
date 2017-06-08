@@ -24,6 +24,6 @@
   4. Завантажити код на плату за допомогою клавіші "Upload" або комбінації клавіш "Ctrl+U".<br>
 <p>Детальніше про <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a>.</p>
 <b><font size="6"><p>Запуск програми для слідкування за лицем:</font></b></p>
-  1. Необхідно встановити Code Blocks IDE (Windows Edition).<br>
-  2. Запустити даний код в редакторі.
+  1. Необхідно встановити<a href="http://www.codeblocks.org/downloads/26">Code Blocks IDE (Windows Edition)</a>.<br>
+  2. Запустити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/tree/master/docs">даний код</a> в редакторі.
  
