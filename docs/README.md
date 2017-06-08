@@ -22,4 +22,4 @@
   2. Відкрити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/blob/master/docs/facedetect.ino">файл</a> у Arduino IDE.<br>
   3. Підключити плату до комп'ютера за допомогою USB-кабеля.<br>
   4. Завантажити код на плату за допомогою клавіші "Upload" або комбінації клавіш "Ctrl+U".<br>
-  <p>Детальніше про <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a>.</p>
+<p>Детальніше про <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a>.</p>
