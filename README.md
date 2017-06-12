@@ -1,15 +1,18 @@
-<b><font size="6"><p>TheZvezdnaya</font></b></p>
+# TheZvezdnaya - TMF Robot
+
 Team members:
-  1. Анастасія Коркішко (<i>Product Owner</i>)
-  2. Благодатний Дмитро (<i>Scrum Master</i>)
-  3. Квітка Олександр (<i>Team Lead</i>)
-  4. Єременко Дар'я (<i>QA</i>)
-  5. Сисоєв Максим (<i>Developer</i>)
 
-<p>Scrum artifacts:</p>
-<p><a href="https://trello.com/b/VMdpwaND/backlog-of-product">Trello board</a></p>
+1. Анастасія Коркішко (<i>Product Owner</i>)
+1. Благодатний Дмитро (<i>Scrum Master</i>)
+1. Квітка Олександр (<i>Team Lead</i>)
+1. Єременко Дар'я (<i>QA</i>)
+1. Сисоєв Максим (<i>Developer</i>)
 
-# Project Documentation
+## Scrum artifacts
+
+[Trello board](https://trello.com/b/VMdpwaND/backlog-of-product)
+
+## Project Documentation
 
 <b><font size="6"><p>TheZvezdnaya - TMF Robot(<i>The Most Friendly Robot</i>)</font></b></p>
 Рік випуску: __2017__<br>
@@ -32,13 +35,13 @@ Team members:
 <b><font size="6"><p>Завантаження коду на плату Arduino UNO:</font></b></p>
 Для завантаження коду необхідно:<br>
   1. Мати в наявності текстовий редактор Arduino IDE (<b>important:</b>>=2.4).<br>
-  2. Відкрити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/blob/master/docs/facedetect.ino">файл</a> у Arduino IDE.<br>
+  2. Відкрити <a href="https://github.com/progbase/TMFRobot/blob/master/arduino/facedetect.ino">файл</a> у Arduino IDE.<br>
   3. Підключити плату до комп'ютера за допомогою USB-кабеля.<br>
   4. Завантажити код на плату за допомогою клавіші "Upload" або комбінації клавіш "Ctrl+U".<br>
 <p>Детальніше про <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a>.</p>
-<b><font size="6"><p>Запуск програми для слідкування за лицем:</font></b></p>
+<b><font size="6"><p>Запуск програми для слідкування за лицем (Windows):</font></b></p>
   1. Необхідно встановити<a href="http://www.codeblocks.org/downloads/26"> Code Blocks IDE (Windows Edition)</a>.<br>
-  2. Запустити <a href="https://github.com/Dmitriy-Blahodatnyi/TheZvezdnaya/tree/master/docs">даний код</a> в редакторі.<br><br>
+  2. Запустити <a href="https://github.com/progbase/TMFRobot/tree/master/desktop_windows">даний код</a> в редакторі.<br><br>
 <b><font size="6"><p>Використання програми:</font></b></p>
   При коректному встановленні коду на ArduinoUNO та запуску програми розпізнавання обличчя виконуємо наступні кроки:<br>
   1. Вмикнути робота та навести його камеру на своє лице.<br>
